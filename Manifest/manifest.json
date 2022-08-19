@@ -6,7 +6,7 @@
   "packageName": "com.acs.sample",
   "developer": {
     "name": "Contoso",
-    "websiteUrl": "http://localhost:3978  ",
+    "websiteUrl": "http://localhost:3978",
     "privacyUrl": "https://teams.microsoft.com",
     "termsOfUseUrl": "https://teams.microsoft.com"
   },
